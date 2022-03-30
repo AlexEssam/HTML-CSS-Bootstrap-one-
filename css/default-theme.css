@@ -1,0 +1,35 @@
+/********** Start Default Theme*********/
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.option-box .gear-check,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus {
+    background-color: #e41b17;
+}
+.dropdown-menu{
+	border-top: 3px solid #e41b17;
+}
+
+.about h1 span,
+.testimonials span,
+.price-table h1,
+.our-team  h1:hover,
+.subscribe h1,
+.our-skills h1,
+.our-skills h3,
+.navbar-inverse,
+ .navbar-brand span,
+.features h1,
+.testimonials h1,
+.price-table .pice-box span {
+	color: #e41b17;
+}
+.option-box  .color-option,
+.testimonials .carousel-indicators li.active{
+	border:3px solid #e41b17;
+}
+
+
+
+/*********** End Default Theme*************/
